@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T08:16:42.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="cDgJXvgLjl1bTsjTGQqp" version="18.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-24T08:18:57.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="qpDExvnaXXmNq1THZj_G" version="18.1.1" type="github" pages="2">
   <diagram id="bKO0ACsnTxshYdBSS-6p" name="50px Map">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1250" pageHeight="900" math="0" shadow="0">
       <root>
@@ -436,7 +436,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p14HiZIevVpTFjOCtkyl" name="25px Map">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="335" pageHeight="475" math="0" shadow="0">
+    <mxGraphModel dx="711" dy="381" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="335" pageHeight="475" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -1158,6 +1158,15 @@
             <mxPoint x="350" y="775" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HFS4x8TUcWcO0EtZQ4ll-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;" vertex="1" parent="F2WLsx3-h_1X0e1XVa5v-85">
+          <mxGeometry x="450" y="600" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="HFS4x8TUcWcO0EtZQ4ll-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="F2WLsx3-h_1X0e1XVa5v-85" source="bk3sCf8IORxQ8XlC1Gfz-145" target="HFS4x8TUcWcO0EtZQ4ll-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="422.5" y="560" as="sourcePoint" />
+            <mxPoint x="463" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="F2WLsx3-h_1X0e1XVa5v-315" value="Text Layer" style="" parent="0" />
         <mxCell id="bk3sCf8IORxQ8XlC1Gfz-2" value="The Forgotten Vineyard" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;sketch=0;fontFamily=Amarante;fontSource=https://fonts.googleapis.com/css?family=Amarante;fontSize=37;fontStyle=0" parent="F2WLsx3-h_1X0e1XVa5v-315" vertex="1">
           <mxGeometry x="130" y="70" width="390" height="50" as="geometry" />
@@ -1209,6 +1218,9 @@
         </mxCell>
         <mxCell id="bk3sCf8IORxQ8XlC1Gfz-18" value="go house&amp;nbsp; / out" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontFamily=Open Sans;fontSource=https://fonts.googleapis.com/css?family=Open+Sans;fontSize=6;fontStyle=1" parent="F2WLsx3-h_1X0e1XVa5v-315" vertex="1">
           <mxGeometry x="162.5" y="735" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="HFS4x8TUcWcO0EtZQ4ll-5" value="go gazebo / gate" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontFamily=Open Sans;fontSource=https://fonts.googleapis.com/css?family=Open+Sans;fontSize=6;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="F2WLsx3-h_1X0e1XVa5v-315">
+          <mxGeometry x="465" y="630.5" width="40" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
