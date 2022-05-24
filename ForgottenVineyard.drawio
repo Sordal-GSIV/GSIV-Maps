@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T21:53:24.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="Zj9JFsQ4oBGAncg7_hu-" version="18.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-24T21:56:48.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="eU0RHQbTASfXs5HZcpMX" version="18.1.2" type="github" pages="2">
   <diagram id="bKO0ACsnTxshYdBSS-6p" name="50px Map">
     <mxGraphModel dx="1182" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1250" pageHeight="900" math="0" shadow="0">
       <root>
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="QKthDenrxq1lR5bi14op-3" value="Map Edits by Sordal" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;sketch=0;fontFamily=Amarante;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAmarante;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="560" y="255" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QKthDenrxq1lR5bi14op-4" value="east" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontSize=10;fontStyle=1;rotation=315;" vertex="1" parent="1">
+          <mxGeometry x="407.07" y="1082.93" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kn24MXPNnqRFbUF0o3a1-1" value="Map Layer" parent="0" />
         <mxCell id="CVCk12bbjDqfIPEQQa69-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;" parent="kn24MXPNnqRFbUF0o3a1-1" vertex="1">
